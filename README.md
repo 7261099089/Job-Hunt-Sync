@@ -36,26 +36,27 @@ Job Hunt Sync is a web application that helps users find, apply for, and manage 
 
 ## Routing Overview
 
-| Route                        | Description                                 |
-| ---------------------------- | ------------------------------------------- |
-| `/`                          | Home page                                   |
-| `/about-us`                  | About the platform                          |
-| `/contact-us`                | Contact form                                |
-| `/login`                     | Login page                                  |
-| `/register`                  | Registration page                           |
-| `/forget-password`           | Reset password                              |
-| `/my-profile`                | View your profile *(protected)*             |
-| `/dashboard`                 | User/Admin dashboard *(protected)*          |
-| `/dashboard/manage-jobs`     | Admin: Manage all jobs *(admin only)*       |
-| `/dashboard/add-job`         | Admin: Add new job *(admin only)*           |
-| `/dashboard/manage-users`    | Admin: Manage users *(admin only)*          |
-| `/dashboard/manage-apps`     | Admin: Manage applications *(admin only)*   |
-| `/dashboard/my-applications` | User: View your applications *(protected)*  |
-| `/dashboard/saved-jobs`      | User: Saved jobs *(protected)*              |
-| `/jobs`                      | Browse all jobs                             |
-| `/jobs/:id`                  | Job details                                 |
-| `/apply/:id`                 | Apply for a job *(protected)*               |
-| `/*`                         | 404 Not Found page                          |
+| Route                                 | Description                                         |
+| -------------------------------------- | --------------------------------------------------- |
+| `/`                                   | Home page                                           |
+| `/about-us`                           | About Us                                            |
+| `/contact-us`                         | Contact Us                                          |
+| `/jobs`                               | All Jobs                                            |
+| `/my-profile`                         | My Profile *(protected)*                            |
+| `/jobs/:id`                           | Job Details *(protected)*                           |
+| `/jobs/:id/apply`                     | Apply for Job *(protected)*                         |
+| `/dashboard/update-profile`           | User: Update Profile *(user only)*                  |
+| `/dashboard/my-applications`          | User: My Applications *(user only)*                 |
+| `/dashboard/application-details/:id`  | User: Application Details *(user only)*             |
+| `/dashboard/my-applications/edit/:id` | User: Edit Application *(user only)*                |
+| `/dashboard/saved-jobs`               | User: Saved Jobs *(user only)*                      |
+| `/dashboard/manage-users`             | Admin: Manage Users *(admin only)*                  |
+| `/dashboard/manage-applications`      | Admin: Manage Applications *(admin only)*           |
+| `/dashboard/add-job`                  | Admin: Add Job *(admin only)*                       |
+| `/dashboard/manage-jobs`              | Admin: Manage Jobs *(admin only)*                   |
+| `/dashboard/manage-jobs/edit/:id`     | Admin: Edit Job *(admin only)*                      |
+| `/dashboard/contact-messages`         | Admin: Contact Messages *(admin only)*              |
+| `/*`                                  | Error/404                                           |
 
 ## Installation
 
